@@ -1,0 +1,1 @@
+export const CHECK_AUTH_DATA = "CHECK_AUTH_DATA";
